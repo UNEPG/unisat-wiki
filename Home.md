@@ -15,7 +15,9 @@ The [United Nations Children's Fund (UNICEF)](https://unicef.org) and [Al-Farabi
 
 **UniSat** is a joint educational programme of UNICEF and Al-Farabi Kazakh National University. Last year, 20 girls developed nanosatellites and launched them into the stratosphere as part of this programme. The launched nanosatellites took pictures of the Earth and collected data on radiation, pressure, gravity, and the composition of light and gas for further analysis by researchers.
 
-![img](https://raw.githubusercontent.com/azataiot/images/master/2021/10/28/unisat-2021.jpg)
+<p align="center">
+    <img src="assets/images/unisat-2021.jpg">
+</p>
 
 <p align="center">20 Girls from different regions of Kazakhstan, launched their nano satellite in 2020</p>
 
