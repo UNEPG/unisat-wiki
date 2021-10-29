@@ -2,6 +2,11 @@ Welcome to the unisat wiki!
 
 UniSat wiki is also availabe in Kazakh, Russian, Uzbek, and Kyrgyz languages.
 
+## Table of Contents
+
+* [Home](https://github.com/UNEPG/unisat/wiki/)
+* [Hardware Specifications](https://github.com/UNEPG/unisat/wiki/Hardware-Specifications)
+
 <p align="center">
   <a href="https://unisat.kz">
     <img src="assets/images/logo.png" alt="Logo" width="80" height="80">
