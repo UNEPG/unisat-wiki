@@ -11,3 +11,8 @@ Here on the OBC, we have two cameras on OBC, one as a general RPi camera that re
 
 The capturing task (both imaging and video recording) is a software designed task that runs among almost all the satellite life time in a cycled period.
 
+<p align="center">
+    <img src="assets/images/life-cycle.png">
+  <p align="center"><i>Life Cycle of Unisat</i></p>
+</p>
+
