@@ -1,3 +1,5 @@
+## Introduction
+
 <p align="center">
     <img src="assets/images/unisat-2.jpg">
   <p align="center"><i>UniSat</i></p>
@@ -15,4 +17,7 @@ The capturing task (both imaging and video recording) is a software designed tas
     <img src="assets/images/life-cycle.png">
   <p align="center"><i>Life Cycle of Unisat</i></p>
 </p>
+In this document,we will introduce all major OBC hardware components one by one.
+
+![CleanShot 2021-11-01 at 17.44.23](https://raw.githubusercontent.com/azataiot/images/master/2021/11/01/CleanShot%202021-11-01%20at%2017.44.23.png)
 
