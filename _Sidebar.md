@@ -1,7 +1,7 @@
 ## Languages
 * [English](https://github.com/UNEPG/unisat/wiki/)
 * [Қазақша](https://github.com/UNEPG/unisat/wiki/)
-* [Русский](https://github.com/UNEPG/unisat/wiki/)
+* [Русский](https://github.com/UNEPG/unisat/wiki/Home-ru-RU)
 * [Oʻzbekcha](https://github.com/UNEPG/unisat/wiki/)
 * [Кыргызча](https://github.com/UNEPG/unisat/wiki/)
 ## Table of Contents
